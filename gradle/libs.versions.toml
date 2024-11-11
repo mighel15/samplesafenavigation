@@ -11,7 +11,7 @@ composeBom = "2024.04.01"
 
 navigationCompose = "2.8.2"
 kotlinxSerialization = "1.6.3"
-kotlinParcelize = "1.8.10"###
+kotlinParcelize = "1.8.10"
 
 
 [libraries]
@@ -37,4 +37,4 @@ kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serializa
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 jetbrainsKotlinSerialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-kotlin-parcelize = { id = "org.jetbrains.kotlin.plugin.parcelize",  version.ref = "kotlinParcelize"  }####
+kotlin-parcelize = { id = "org.jetbrains.kotlin.plugin.parcelize",  version.ref = "kotlinParcelize"  }
